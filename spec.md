@@ -1,6 +1,6 @@
-# Activity itinerary Components
+# Activity itinerary Component
 
-### Component data
+### Component Data
 
 ```javascript
 
@@ -22,7 +22,6 @@
 }
 
 ```
-
 
 ### Resources
 
