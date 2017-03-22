@@ -84,8 +84,13 @@ button tap\click - t-activity-item-options-tap
 
 ## Important Information
 
-- 
-
+- Single component should handle both card and list view.
+- ListView should have Activity description but cardView should not.
+- Card view : Activity name can max goes upto 3 line in desktop and after that trim with full name on tool-tip / max 2 lines in tablet and mobile.
+- Card view : On hover, underline the ActivityName / Price and fill button color
+- Card view : No. of cards in single Row - Desktop 3, Tablet 2 and mobile 1
+- List view : Activity name can max goes upto 2 line in desktop and after that trim with full name on tool-tip / max 2 lines in tablet and 3 lines in mobile.
+- Redirections - Click on Image will redirect user to gallery section of details page / Activity name will redirect user to details page / Price and Option button should redirect user to details page with focus on optionListing
 
 ## Test Cases
 
