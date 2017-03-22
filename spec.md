@@ -1,4 +1,16 @@
-# Activity itinerary Component
+# Activity item Component
+
+### Component Use
+
+```javascript
+
+<t-activity-item 
+    data ="{{data}}"
+    resources ="{{resources}}"
+    settings ="{{settings}}"
+</t-activity-item>
+
+```
 
 ### Component Data
 
