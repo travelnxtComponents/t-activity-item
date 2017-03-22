@@ -5,9 +5,9 @@
 ```javascript
 
 <t-activity-item 
-    data ="{{data}}"
-    resources ="{{resources}}"
-    settings ="{{settings}}"
+        data ="{{data}}"
+        resources ="{{resources}}"
+        settings ="{{settings}}"
 </t-activity-item>
 
 ```
